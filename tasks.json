@@ -1,0 +1,10 @@
+[
+  {
+    "task": "lavar la ropa",
+    "completed": true
+  },
+  {
+    "task": "limpiar la casa",
+    "completed": false
+  }
+]
